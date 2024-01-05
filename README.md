@@ -1,2 +1,2 @@
-# AI-ASSISTANT-2.0-proxima
+# proxima.
 Advanced AI Assistant
